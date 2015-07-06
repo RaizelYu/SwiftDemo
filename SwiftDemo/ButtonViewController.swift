@@ -22,7 +22,7 @@ class ButtonViewController: UIViewController {
 //        self.button.setTitle("button", forState: UIControlState.Normal)
 //        self.button.addTarget(self, action:"tap:", forControlEvents: UIControlEvents.TouchUpInside)
 //        self.view.addSubview(self.button!)
-        self.button = Apputil.alloc().initButton(CGRectMake(100, 100, 100, 100), text: "button", tapAction: "tap:", target:self, bgColor:UIColor.clearColor(), textColor:UIColor.blackColor())
+        self.button = Apputil.alloc().initButton(CGRectMake(100, 100, 100, 100), text: "A button", tapAction: "tap:", target:self, bgColor:UIColor.clearColor(), textColor:UIColor.blackColor())
 //        self.button.addTarget(self, action: "tap:", forControlEvents: UIControlEvents.TouchUpInside)
         self.view.addSubview(self.button)
         // Do any additional setup after loading the view.
