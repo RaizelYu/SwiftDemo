@@ -1,0 +1,7 @@
+platform :ios, "8.0" 
+pod "AFNetworking"
+pod "MD5Digest"
+pod "JSONModel"
+pod "SDWebImage"
+pod "Masonry"
+#pod "Snap"
