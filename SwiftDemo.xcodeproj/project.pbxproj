@@ -57,6 +57,7 @@
 		BAE41FA51B01C2BF00260CF9 /* SwiftDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE41FA41B01C2BF00260CF9 /* SwiftDemoTests.swift */; };
 		BAE41FAF1B01C39B00260CF9 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE41FAE1B01C39B00260CF9 /* RootViewController.swift */; };
 		BAE41FB91B03325900260CF9 /* NamedShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE41FB81B03325900260CF9 /* NamedShape.swift */; };
+		EBEF2DD51B4BA547008F8AA4 /* yinfu.png in Resources */ = {isa = PBXBuildFile; fileRef = EBEF2DD41B4BA547008F8AA4 /* yinfu.png */; };
 		F881F997F1CE3461365D5C97 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DF6473F239E5CC117F7E2043 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -130,6 +131,7 @@
 		BAE41FAE1B01C39B00260CF9 /* RootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		BAE41FB81B03325900260CF9 /* NamedShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NamedShape.swift; sourceTree = "<group>"; };
 		DF6473F239E5CC117F7E2043 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBEF2DD41B4BA547008F8AA4 /* yinfu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yinfu.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +205,7 @@
 				BA1DA59C1B0B344E006F5078 /* icon_more_h@2x.png */,
 				BA1DA59D1B0B344E006F5078 /* icon_personal@2x.png */,
 				BA1DA59E1B0B344E006F5078 /* icon_personal_h@2x.png */,
+				EBEF2DD41B4BA547008F8AA4 /* yinfu.png */,
 			);
 			name = imgResoure;
 			path = ../imgResoure;
@@ -393,6 +396,7 @@
 				BADC2F5F1B14535F00D0548B /* 0@2x.png in Resources */,
 				BA1DA5A31B0B344E006F5078 /* icon_more@2x.png in Resources */,
 				BA1DA5A21B0B344E006F5078 /* icon_found_h@2x.png in Resources */,
+				EBEF2DD51B4BA547008F8AA4 /* yinfu.png in Resources */,
 				BADC2F611B14535F00D0548B /* 2@2x.png in Resources */,
 				BADC2F601B14535F00D0548B /* 1@2x.png in Resources */,
 				BA1DA5A41B0B344E006F5078 /* icon_more_h@2x.png in Resources */,
